@@ -1,3 +1,3 @@
 # Dog_bot
 
-### A discord bot for a discord guild"讀起來"
+### A discord bot for a Discord guild"讀起來"
